@@ -134,5 +134,5 @@ int main()
 
     intoPost(&root, input, output);
 
-    printf("Postfix: %s", output);
+    printf("Postfix: %s\n", output);
 }
