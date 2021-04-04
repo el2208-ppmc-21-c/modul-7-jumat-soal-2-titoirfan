@@ -73,7 +73,7 @@
     {
       "name": "08",
       "setup": "",
-      "run": "./soal-01",
+      "run": "./soal-02",
       "input": "A*(B*C+D*E)+F",
       "output": "ABC*DE*+*F+",
       "comparison": "included",
